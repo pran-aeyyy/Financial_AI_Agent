@@ -1,0 +1,14 @@
+phidata
+python-dotenv
+yfinance   ##finance tool for stock data
+packaging
+duckduckgo-search  ##tool for searching content on the internet
+fastapi
+uvicorn
+groq
+sqlalchemy
+pgvector
+pypdf
+psycopg[binary]
+streamlit
+google-generativeai
